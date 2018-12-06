@@ -17,12 +17,12 @@ intro:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/coffee-gear.png
+    - image: /img/kfc.jpeg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        We1111 offer a small, but carefully curated selection of brewing gear
+        and tools for every taste and experience level. No matter if you roast
+        your own beans or just bought your first french press, you’ll find a
+        gadget to fall in love with in our shop.
     - image: /img/coffee.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
